@@ -118,9 +118,28 @@
     font-size: 20px; 
     color: #FFFFFF;
     background-color: #008000;
-    border-radius: 15px;
+    border-radius: 15px;    
+}
+.left img{
+    height: auto; 
+    width: auto; 
+    max-width: 30px; 
+    max-height: 30px;
     
 }
+.right img{
+    height: auto; 
+    width: auto; 
+    max-width: 30px; 
+    max-height: 30px;
+    
+}
+.card-footer{
+    padding : 0;
+    border: none;
+    background-color: white;
+}
+
 
 
 
